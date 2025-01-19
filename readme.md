@@ -44,12 +44,12 @@ This repository contains code to solve the Tower of Hanoi problem programmatical
 - Visualizes the sequence of moves.
 
 ### File Structure:
-- `tower_of_hanoi.py`: Python implementation of the Tower of Hanoi algorithm.
+- `Tower of Hanoi.py`: Python implementation of the Tower of Hanoi algorithm.
 - `README.md`: Explanation and usage details.
 
 ### How to Run:
 1. Clone this repository.
-2. Run the `tower_of_hanoi.py` file using Python.
+2. Run the `Tower of Hanoi.py` file using Python.
 3. Input the number of disks when prompted.
 
 
