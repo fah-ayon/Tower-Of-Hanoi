@@ -1,5 +1,5 @@
 # Tower of Hanoi
-    ![Tower of Hanoi Illustration](images/img1.gif)
+![Tower of Hanoi Illustration](images/img1.gif)
 
 ## Explanation
 The Tower of Hanoi problem involves moving a tower of `n` disks from the **source peg** to the **destination peg**, using an **auxiliary peg**. The rules of the problem are:
